@@ -1,0 +1,25 @@
+{
+    "name": "bot",
+    "version": "1.0.0",
+    "description": "ejemplo diseñado por nPauuul",
+    "main": "index.js",
+    "scripts": {
+      "start": "node ./src/index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/nPauuul/bot.git"
+    },
+    "keywords": [],
+    "author": "Paul",
+    "license": "Unlicense",
+    "bugs": {
+      "url": "https://github.com/nPauuul/bot/issues"
+    },
+    "homepage": "https://npauuul.com",
+    "dependencies": {
+      "discord.js": "^12.5.3"
+    }
+  }
+  
