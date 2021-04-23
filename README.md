@@ -1,7 +1,7 @@
 ## 📜 Requisitos previos
-
-1. Token de un tú BOT **[(Guía en Ingles)](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
-2. Node v12
+1. Un lector de código como [Visual Studio Code](https://code.visualstudio.com/) y [Git](https://git-scm.com/)
+2. Token de un tú BOT **[(Guía en Ingles)](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
+3. [Node](https://nodejs.org/es/) versión 12 o superior
 
 ## 📦 Como empezar
 
@@ -13,7 +13,7 @@ Luego de descargar el ejemplo inicia con `npm start`.
 
 ## ⚙️ Configuración
 
-Remplazar los valores dentro de los archivos.
+Remplazar los valores dentro del archivo `config.json`.
 
 ```json
 {
