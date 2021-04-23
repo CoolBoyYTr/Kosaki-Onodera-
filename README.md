@@ -6,7 +6,7 @@
 ## 📦 Como empezar
 
 ```
-git clone https://github.com/eritislami/evobot.git
+git clone https://github.com/nPauuul/bot.git
 ```
 
 Luego de descargar el ejemplo inicia con `npm start`.
